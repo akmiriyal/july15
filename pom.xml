@@ -258,7 +258,7 @@
         </configuration>
       </plugin>
       
-    </plugins
+      </plugins>
   </build>
     
 <distributionManagement>
