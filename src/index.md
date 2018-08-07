@@ -1,4 +1,4 @@
-# Sample Scalate Sitegen Project_1
+# Sample Scalate Sitegen Project_2
 
 # Supported Markup Syntaxes
 
